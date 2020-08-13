@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=murdock-commits&count_private=true&show_icons=true&&theme=vue)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=murdock-commits&count_private=true&show_icons=true&theme=vue)
