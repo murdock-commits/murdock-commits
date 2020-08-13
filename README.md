@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=murdock-commits)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=murdock-commits)](https://github.com/anuraghazra/github-readme-stats&count_private=true&show_icons=true&&theme=vue)
